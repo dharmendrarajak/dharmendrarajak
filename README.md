@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Web Dev
 - 🌱 I’m currently Web3 Technologies
-- 📫 How to reach me: dharmendrarajakr109@gmai.com
+- 📫 How to reach me: dharmendrarajakr109@gmail.com
 - 😄 My website: 
 - ⚡ Fun fact: 
   
