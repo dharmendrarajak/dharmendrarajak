@@ -24,7 +24,7 @@
 
 ![Dharmendra Rajak GitHub stats](https://github-readme-stats.vercel.app/api?username=dharmendrarajak&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dharmendrarajaktheme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dharmendrarajak&theme=dark)
 
 
 <br>
